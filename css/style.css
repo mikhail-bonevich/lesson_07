@@ -1,0 +1,12 @@
+.main {
+  width: 100vw;
+  height: 30vh;
+  display: flex;
+}
+
+.title {
+  font-weight: 900;
+  font-size: 54px;
+  margin: 0 auto;
+  align-self: center;
+}
